@@ -51,10 +51,10 @@
 
         <androidx.appcompat.widget.AppCompatButton
             android:layout_width="match_parent"
-            android:background="@color/colorPrimary"
-            android:textColor="@android:color/white"
             android:layout_height="wrap_content"
-            android:text="@string/go_continue" />
+            android:background="@color/colorPrimary"
+            android:text="@string/go_continue"
+            android:textColor="@android:color/white" />
 
 
     </LinearLayout>
