@@ -7,8 +7,8 @@
     android:orientation="vertical">
 
     <androidx.appcompat.widget.Toolbar
-        android:layout_width="match_parent"
         android:id="@+id/signup_toolbar"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:logo="@drawable/logo" />
 
@@ -28,23 +28,31 @@
 
         <androidx.appcompat.widget.AppCompatTextView
             android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
+            android:text="@string/step_2_to_3"
+            android:textColor="@android:color/black" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/create_your_account"
             android:textColor="@android:color/black"
-            android:layout_height="wrap_content"
-            android:text="@string/step_2_to_3" />
+            android:textSize="20sp"
+            android:textStyle="bold" />
 
         <androidx.appcompat.widget.AppCompatTextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/create_your_account" />
-
-        <androidx.appcompat.widget.AppCompatTextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/text_content" />
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:text="@string/text_content"
+            android:textColor="@android:color/black" />
 
         <androidx.appcompat.widget.AppCompatButton
             android:layout_width="match_parent"
+            android:background="@color/colorPrimary"
+            android:textColor="@android:color/white"
             android:layout_height="wrap_content"
             android:text="@string/go_continue" />
 
