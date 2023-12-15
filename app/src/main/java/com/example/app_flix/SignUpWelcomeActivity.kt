@@ -11,6 +11,7 @@ class SignUpWelcomeActivity : AppCompatActivity() {
 
         val signUpToolbar: Toolbar = findViewById(R.id.signup_toolbar)
         setSupportActionBar(signUpToolbar)
+        supportActionBar?.title = null
 
     }
 }
