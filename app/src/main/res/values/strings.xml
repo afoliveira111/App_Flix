@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">App_Flix</string>
+    <string name="step_2_to_3">PASSO 2 DE 3</string>
+    <string name="create_your_account">Crie sua conta.</string>
+    <string name="go_continue">CONTINUAR</string>
 </resources>
