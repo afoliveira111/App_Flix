@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">App_Flix</string>
-    <string name="step_2_to_3">PASSO 2 DE 3</string>
+    <string name="step_2_to_3">PASSO <b>2</b> DE <b>3</b></string>
     <string name="create_your_account">Crie sua conta.</string>
     <string name="go_continue">CONTINUAR</string>
     <string name="text_content">A Netflix é personalizada para você. \nUse seu email e crie uma senha para assistir à Netflix em qualquer aparelho quando você quiser.</string>
