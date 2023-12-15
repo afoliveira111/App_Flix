@@ -4,4 +4,6 @@
     <string name="create_your_account">Crie sua conta.</string>
     <string name="go_continue">CONTINUAR</string>
     <string name="text_content">A Netflix é personalizada para você. \nUse seu email e crie uma senha para assistir à Netflix em qualquer aparelho quando você quiser.</string>
+    <string name="enter">ENTRAR</string>
+    <string name="help">AJUDA</string>
 </resources>
