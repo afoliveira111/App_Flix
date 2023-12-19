@@ -1,5 +1,5 @@
 # App Flix
-Por enquanto é apenas a tela antiga de criar uma conta do aplicativo da NEtflix.
+Por enquanto é apenas a tela antiga de criar uma conta do aplicativo da Netflix.
 
 
 ## :camera_flash: Screenshots
@@ -7,3 +7,50 @@ Por enquanto é apenas a tela antiga de criar uma conta do aplicativo da NEtflix
 
 <img src="/result/Screenshot_20231219_084441.png" width="260">
 
+
+## Tecnologias Utilizadas
+
+* **Kotlin**
+* AndroidX
+* Toolbar -> uma barra de ação personalizada, fornecendo uma abordagem mais flexível e personalizável em comparação com a barra de ação tradicional.
+* Menu -> onCreateOptionsMenu -> Este menu pode ser personalizado conforme necessário e oferece opções ao usuário.
+
+
+
+## TODO
+
+* Criar a lista de filmes e series.
+  
+* Criar novas funcionalidades.
+  
+
+
+## Autor
+
+Antonio Felipe Oliveira | **LinkedIn www.linkedin.com/in/id-antonio-felipe**
+
+
+
+## License
+
+The MIT License (MIT)
+
+Copyright (c) 2023 Antonio Felipe Oliveira
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
