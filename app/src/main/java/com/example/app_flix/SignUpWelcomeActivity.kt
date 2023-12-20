@@ -2,7 +2,6 @@ package com.example.app_flix
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.PersistableBundle
 import android.view.Menu
 import androidx.appcompat.widget.Toolbar
 
