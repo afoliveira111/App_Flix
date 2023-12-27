@@ -1,5 +1,5 @@
 # App Flix
-Por enquanto é apenas a tela antiga de criar uma conta do aplicativo da Netflix.
+Telada versão antiga de criar uma conta do aplicativo da Netflix.
 
 
 ## :camera_flash: Screenshots
